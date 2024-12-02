@@ -1,0 +1,190 @@
+
+[
+     {
+         "product_id": 1,
+         "product_title": "Premium Laptop X15",
+         "product_image": "https://i.ibb.co.com/yVyBVfC/Laptop-PNG-Image-Background.png",
+         "Category": "Laptop",
+         "price": 1299.99,
+         "description": "High-performance laptop with ultra-fast processing.",
+         "Specification": ["15.6-inch 4K display", "Intel Core i7", "16GB RAM", "512GB SSD", "NVIDIA RTX 3060"],
+         "availability": "In Stock",
+         "rating": 4.7
+     },
+     {
+         "product_id": 2,
+         "product_title": "Smartphone Pro Max",
+         "product_image": "https://i.ibb.co.com/x32jHmD/11271-Galaxy-A53-5-G-3000x2000.jpg",
+         "Category": "Phones",
+         "price": 999.99,
+         "description": "Flagship smartphone with advanced features and sleek design.",
+         "Specification": ["6.7-inch Super Retina XDR display", "A17 Bionic chip", "Triple-camera system"],
+         "availability": "In Stock",
+         "rating": 4.8
+     },
+     {
+         "product_id": 3,
+         "product_title": "Wireless Earbuds Pro",
+         "product_image": "https://i.ibb.co.com/bbLpfnx/31-G4-Dt-Yk-P-L-SL500.jpg",
+         "Category": "Accessories",
+         "price": 149.99,
+         "description": "Noise-cancelling wireless earbuds with excellent sound quality.",
+         "Specification": ["Active noise cancellation", "Wireless charging case", "24-hour battery life"],
+         "availability": "Out of Stock",
+         "rating": 4.6
+     },
+     {
+         "product_id":4,
+         "product_title": "Smartwatch Gen 6",
+         "product_image": "https://i.ibb.co.com/rpHg6jv/IMG-20221203-WA0417-4-1600x.webp",
+         "Category": "Smart Watches",
+         "price": 249.99,
+         "description": "Feature-packed smartwatch with health tracking and GPS.",
+         "Specification": ["1.78-inch OLED display", "Heart rate monitor", "Built-in GPS"],
+         "availability": "In Stock",
+         "rating": 4.5
+     },
+     {
+         "product_id": 5,
+         "product_title": "MacBook Air M2",
+         "product_image": "https://i.ibb.co.com/QjVP7MH/0750-3-1000x.webp",
+         "Category": "MacBook",
+         "price": 1199.99,
+         "description": "Lightweight MacBook with powerful M2 chip.",
+         "Specification": ["13.6-inch Retina display", "M2 chip", "8GB RAM", "256GB SSD"],
+         "availability": "In Stock",
+         "rating": 4.9
+     },
+     {
+         "product_id": 6,
+         "product_title": "iPhone 14 Pro",
+         "product_image": "https://i.ibb.co.com/0n21xN1/transparent-camera-lens-black-iphone-11-pro-max-camera-extended661fa5684e92c0-77071282.webp",
+         "Category": "iPhone",
+         "price": 1099.99,
+         "description": "Top-tier iPhone with enhanced cameras and display.",
+         "Specification": ["6.1-inch Super Retina XDR display", "A17 Bionic chip", "Triple-camera system"],
+         "availability": "In Stock",
+         "rating": 4.8
+     },
+     {
+         "product_id": 7,
+         "product_title": "Laptop Z14",
+         "product_image": "https://i.ibb.co.com/0nXbk71/images-1.jpg",
+         "Category": "Laptop",
+         "price": 999.99,
+         "description": "Compact and lightweight laptop with great battery life.",
+         "Specification": ["14-inch Full HD display", "Intel Core i5", "8GB RAM", "256GB SSD"],
+         "availability": "In Stock",
+         "rating": 4.6
+     },
+     {
+         "product_id": 8,
+         "product_title": "Smartphone Lite",
+         "product_image": "https://i.ibb.co.com/vw038n6/1102-Gen6-Learnmore-Hero8-Slide1-Mobile.webp",
+         "Category": "Phones",
+         "price": 599.99,
+         "description": "Affordable smartphone with essential features.",
+         "Specification": ["6.1-inch Retina display", "A16 Bionic chip", "Dual-camera system"],
+         "availability": "Out of Stock",
+         "rating": 4.4
+     },
+     {
+         "product_id": 9,
+         "product_title": "Bluetooth Speaker Mini",
+         "product_image": "https://i.ibb.co.com/h7xG4Zm/Sluh4q6ia-D4-Pr-L7-K2q-B-mp4-319076001665-mp4-264-ld-mp4.webp",
+         "Category": "Accessories",
+         "price": 59.99,
+         "description": "Portable Bluetooth speaker with deep bass and clear sound.",
+         "Specification": ["Bluetooth 5.0", "10-hour battery life", "Water-resistant"],
+         "availability": "In Stock",
+         "rating": 4.7
+     },
+     {
+         "product_id": 10,
+         "product_title": "Fitness Smartwatch",
+         "product_image": "https://i.ibb.co.com/LSG69SW/s-pdpxl.webp",
+         "Category": "Smart Watches",
+         "price": 199.99,
+         "description": "Smartwatch focused on fitness and health tracking.",
+         "Specification": ["Heart rate monitor", "Sleep tracking", "Built-in GPS"],
+         "availability": "In Stock",
+         "rating": 4.6
+     },
+     {
+         "product_id": 11,
+         "product_title": "MacBook Pro 16 M1",
+         "product_image": "https://i.ibb.co.com/qpndBhH/20211110-1636549088-550946.png",
+         "Category": "MacBook",
+         "price": 2499.99,
+         "description": "High-end MacBook with exceptional performance for professionals.",
+         "Specification": ["16-inch Retina display", "M1 Pro chip", "16GB RAM", "1TB SSD"],
+         "availability": "Out of Stock",
+         "rating": 4.9
+     },
+     {
+         "product_id": 12,
+         "product_title": "iPhone 13",
+         "product_image": "https://i.ibb.co.com/2MZ8BJy/6149d61125f2b70467c6cfca-iphone-13-4.jpg",
+         "Category": "iPhone",
+         "price": 799.99,
+         "description": "Previous generation iPhone with powerful features.",
+         "Specification": ["6.1-inch Super Retina XDR display", "A15 Bionic chip", "Dual-camera system"],
+         "availability": "In Stock",
+         "rating": 4.7
+     },
+     {
+         "product_id": 13,
+         "product_title": "Gaming Laptop G7",
+         "product_image": "https://i.ibb.co.com/9gtGv9V/is7700-i710750-161tb6rtxp-6.webp",
+         "Category": "Laptop",
+         "price": 1599.99,
+         "description": "High-end gaming laptop with advanced cooling and powerful graphics.",
+         "Specification": ["17.3-inch Full HD display", "AMD Ryzen 9", "32GB RAM", "1TB SSD", "NVIDIA RTX 3070"],
+         "availability": "In Stock",
+         "rating": 4.8
+     },
+     {
+         "product_id": 14,
+         "product_title": "Smartphone Ultra",
+         "product_image": "https://i.ibb.co.com/Wk6rV0m/image-22.webp",
+         "Category": "Phones",
+         "price": 1299.99,
+         "description": "Ultimate smartphone with the latest technology and design.",
+         "Specification": ["6.8-inch Super Retina XDR display", "A18 Bionic chip", "Quad-camera system"],
+         "availability": "In Stock",
+         "rating": 4.9
+     },
+     {
+         "product_id": 15,
+         "product_title": "Smart Charger Pro",
+         "product_image": "https://i.ibb.co.com/685wtcc/go-e-pro-wallbox-mid-22kw-11kw.webp",
+         "Category": "Accessories",
+         "price": 29.99,
+         "description": "Fast-charging adapter with multiple USB ports.",
+         "Specification": ["Quick Charge 3.0", "USB-C compatible", "20W output"],
+         "availability": "In Stock",
+         "rating": 4.8
+     },
+     {
+         "product_id": 16,
+         "product_title": "Smartwatch Active",
+         "product_image": "https://i.ibb.co.com/0KH5r9s/1c42dc958e03c4fa62fa4d37a7143c73.png",
+         "Category": "Smart Watches",
+         "price": 299.99,
+         "description": "High-performance smartwatch with active lifestyle features.",
+         "Specification": ["1.6-inch AMOLED display", "SpO2 sensor", "GPS + Cellular"],
+         "availability": "In Stock",
+         "rating": 4.6
+     },
+     {
+         "product_id": 17,
+         "product_title": "MacBook Pro 14 M2",
+         "product_image": "https://i.ibb.co.com/W6M3cpK/1-547d9c4f-70be-4874-8511-e7a5d43ffaed.webp",
+         "Category": "MacBook",
+         "price": 1999.99,
+         "description": "Compact powerhouse MacBook with the M2 chip.",
+         "Specification": ["14-inch Retina display", "M2 chip", "16GB RAM", "512GB SSD"],
+         "availability": "In Stock",
+         "rating": 4.4
+     }   
+]
